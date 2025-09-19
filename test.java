@@ -1,7 +1,7 @@
 class Hello{
 <<<<<<< HEAD
     public static void main(String args[]){
-        
+        system;
     }
 }
 =======
